@@ -1,0 +1,8 @@
+Lines - Math Steps, Examples & QuestionsA line is a fundamental
+ one-dimensional geometric figure that is perfectly straight,
+ has infinite length but no width or thickness, and extends forever
+ in both directions, made up of countless points. Lines form the basis 
+of geometry and can be horizontal, vertical, parallel, perpendicular,
+ or intersecting, serving as building blocks for shapes and graphs in
+ mathematics and real-world applications like engineering.  
+Key characteristics
